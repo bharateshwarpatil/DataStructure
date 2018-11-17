@@ -1,5 +1,7 @@
-package com.datastructure.list;
+package com.datastructure.list.singlylist;
 
+import com.datastructure.list.singlylist.com.datastructure.singlylist.Node;
+import com.datastructure.list.singlylist.com.datastructure.singlylist.SinglyLinkedList;
 import org.junit.Assert;
 import org.junit.Test;
 

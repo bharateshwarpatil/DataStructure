@@ -1,4 +1,4 @@
-package com.datastructure.list;
+package com.datastructure.list.singlylist.com.datastructure.singlylist;
 
 public class Node<T> {
 
