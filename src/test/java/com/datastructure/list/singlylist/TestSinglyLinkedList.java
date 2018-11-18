@@ -23,6 +23,20 @@ public class TestSinglyLinkedList {
 
 
     /**
+     * for test with even length
+     */
+    @Test
+    public void reveseSinglyList() {
+        SinglyLinkedList<Integer> list = createEvenSinglyLinkedList();
+        //Before Reverse the linked list
+        Assert.assertEquals(9l,(long)list.getNthElementfromLast(1).getData());
+        list.reveseSinglyList();
+        list.printNode();
+        // After Reverse the linked list
+        Assert.assertEquals(2l,(long)list.getNthElementfromLast(1).getData());
+
+    }
+    /**
      * for test with odd length
      */
     private SinglyLinkedList<Integer> createEvenSinglyLinkedList() {

@@ -69,6 +69,31 @@ public class SinglyLinkedList<T> {
     return slowPointer;
    }
 
+    /**
+     * reverse SinglyNode
+     * @param
+     */
+   public void reveseSinglyList(){
+       Node currNode=headNode;
+       Node prevNode=null;
+       while(currNode!=null) {
+           Node nextNode = currNode.getNext();//
+           Node tmpNode=nextNode.getNext();
+           nextNode.setNext(currNode);
+           currNode.setNext(prevNode);
+           prevNode =nextNode;
+           currNode=tmpNode;
+       }
+       headNode=prevNode;
+       System.out.println(headNode.getData());
+   }
+
+
+
+
+
+
+
 
 
    public  void  printNode(){
