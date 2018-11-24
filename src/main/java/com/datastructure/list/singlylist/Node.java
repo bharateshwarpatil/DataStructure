@@ -1,6 +1,6 @@
-package com.datastructure.list.singlylist.com.datastructure.singlylist;
+package com.datastructure.list.singlylist;
 
-public class Node<T> {
+public class Node<T extends  Comparable> {
 
     private Node next;
 
