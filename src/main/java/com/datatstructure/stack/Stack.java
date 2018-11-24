@@ -26,8 +26,7 @@ public class Stack<T> {
     }
 
     private void ensureCapacity(int currentLength) {
-       int currentCapcity= Math.max(defaultCapacity,currentLength);
-      if(container.length >= currentCapcity){
+      if(container.length >= currentLength){
       int newCapacity = container.length + container.length >> 1;
           if (newCapacity - maxCapacity > 0)
               container = Arrays.copyOf(container, newCapacity);
