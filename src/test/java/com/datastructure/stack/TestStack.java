@@ -1,6 +1,7 @@
 package com.datastructure.stack;
 
 import com.datatstructure.stack.Stack;
+import com.datatstructure.stack.StackUtil;
 import org.junit.Assert;
 import org.junit.Test;
 
@@ -49,4 +50,19 @@ public class TestStack {
         Assert.assertEquals(null, stack.pop());
     }
 
+     @Test
+    public void testInfixToPostFix0(){
+        StackUtil stackFn=new StackUtil();
+        Assert.assertEquals("ab+",stackFn.doPostFix("(a+b)"));
+    }
+    @Test
+    public void testInfixToPostFix1(){
+        StackUtil stackFn=new StackUtil();
+        Assert.assertEquals("ab+cd++",stackFn.doPostFix("(a+b)+(c+d)"));
+    }
+    @Test
+    public void testInfixToPostFix2(){
+        StackUtil stackFn=new StackUtil();
+        Assert.assertEquals("abc*d++",stackFn.doPostFix("a+b*c+d)"));
+    }
 }
