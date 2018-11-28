@@ -29,7 +29,7 @@ public enum Operator {
         Optional<Operator> operator = isOperator(peek);
         if (operator.isPresent()) {
 
-           if ((!operator.get().equals(Operator.LEFT_PARANTHESIS)) && curOp.get().getPriority() < operator.get().getPriority()){
+           if ((!operator.get().equals(Operator.LEFT_PARANTHESIS)) && curOp.get().getPriority() <= operator.get().getPriority()){
              return true;
            }
         }

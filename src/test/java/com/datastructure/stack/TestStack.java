@@ -63,6 +63,6 @@ public class TestStack {
     @Test
     public void testInfixToPostFix2(){
         StackUtil stackFn=new StackUtil();
-        Assert.assertEquals("abc*d++",stackFn.doPostFix("a+b*c+d)"));
+        Assert.assertEquals("abc*+d+",stackFn.doPostFix("a+b*c+d)"));
     }
 }
