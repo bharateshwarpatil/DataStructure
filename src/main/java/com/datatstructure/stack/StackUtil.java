@@ -10,8 +10,6 @@ import java.util.regex.Pattern;
  */
 public class StackUtil {
 
-    String regEX = "[A-Za-z]*";
-    Pattern patterOperand = Pattern.compile(regEX);
 
     /**
      * @param expression
@@ -50,6 +48,27 @@ public class StackUtil {
       //   System.out.print(expressionBuilder.toString());
 
         return expressionBuilder.toString();
+    }
+
+
+     public void reverseStack(Stack stack){
+        if(stack.isEmpty()) return;
+         Object data=stack.pop();
+         reverseStack(stack);
+         recursivePushStack(stack,data);
+
+
+     }
+
+
+    public void recursivePushStack(Stack stack,Object data){
+        if(stack.isEmpty()) {
+            stack.push(data);
+            return;
+        }
+        Object tmp=stack.pop();
+        recursivePushStack(stack,data);
+        stack.push(tmp);
     }
 
 

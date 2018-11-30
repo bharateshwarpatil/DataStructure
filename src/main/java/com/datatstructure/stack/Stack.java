@@ -41,7 +41,7 @@ public class Stack<T> {
        return object;
     }
 
-    private boolean isEmpty() {
+    public boolean isEmpty() {
         if(top < 0){
             return true;
         }
@@ -56,4 +56,5 @@ public class Stack<T> {
     public int size(){
         return top;
     }
+
 }

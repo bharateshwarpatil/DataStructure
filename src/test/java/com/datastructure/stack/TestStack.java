@@ -65,4 +65,17 @@ public class TestStack {
         StackUtil stackFn=new StackUtil();
         Assert.assertEquals("abc*+d+",stackFn.doPostFix("a+b*c+d)"));
     }
+
+    @Test
+    public void testreverseStack(){
+        StackUtil stackUtil=new StackUtil();
+        Stack stack = new Stack();
+        stack.push(10);
+        stack.push(20);
+        stack.push(30);
+        stackUtil.reverseStack(stack);
+        Assert.assertEquals(10, stack.pop());
+        Assert.assertEquals(20, stack.pop());
+    }
+
 }
