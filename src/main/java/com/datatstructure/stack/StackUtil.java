@@ -36,7 +36,6 @@ public class StackUtil {
                 while (Operator.higherPriority(curOp, stack.peek())) {
                     expressionBuilder.append(stack.pop());
                 }
-
                 stack.push(ch);
             }
         }
