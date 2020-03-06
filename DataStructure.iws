@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="401fdead-ba24-45c0-bca3-839e08d1d156" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/datastructure/amazon/Converter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/datastructure/list/singlylist/CirculerLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/datastructure/queue/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/datastructure/tree/DeleteTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/datastructure/tree/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/datastructure/list/singlylist/RemoveNthfromtheNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/datastructure/list/singlylist/RemoveNthfromtheNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/datastructure/list/singlylist/ReverseBetweenList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/datastructure/list/singlylist/ReverseBetweenList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/datastructure/list/singlylist/SinglyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/datastructure/list/singlylist/SinglyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/datastructure/list/singlylist/SwapPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/datastructure/list/singlylist/SwapPairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/datastructure/list/singlylist/TestJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/datastructure/list/singlylist/TestJava.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/DataStructure$TripletsSumInRabge.ic" NAME="TripletsSumInRabge Coverage Results" MODIFIED="1545649724361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.datatstructure.stack.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DataStructure$ReverseBetweenList.ic" NAME="ReverseBetweenList Coverage Results" MODIFIED="1546691342214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.datastructure.list.singlylist.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DataStructure$ReverseLinkedList.ic" NAME="ReverseLinkedList Coverage Results" MODIFIED="1556729666370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.datastructure.list.singlylist.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DataStructure$TestStack_testreverseStack.ic" NAME="TestStack.testreverseStack Coverage Results" MODIFIED="1543550325320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.datastructure.stack.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DataStructure$RemoveNthfromtheNode.ic" NAME="RemoveNthfromtheNode Coverage Results" MODIFIED="1546363795731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.datastructure.list.singlylist.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="201" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="DataStructure" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1238617271">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="28" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.1" value="7" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="4" />
+          <entry key="project.open.time.6" value="7" />
+          <entry key="project.open.time.7" value="4" />
+          <entry key="project.opened" value="35" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="WaveArray" value="1" />
+          <entry key="class" value="2" />
+          <entry key="gradle" value="1" />
+          <entry key="java" value="163" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="2" />
+          <entry key="Groovy" value="1" />
+          <entry key="JAVA" value="163" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="22" />
+          <entry key="java" value="26451" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="26451" />
+          <entry key="PLAIN_TEXT" value="22" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1VW8cAnn8M1SC5sBWKk4p6aFC0h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575092033549" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.datastructure.singlyLinkedList" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/datastructure" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DeleteTree">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Converter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.datastructure.amazon.Converter" />
+      <module name="DataStructure_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.datastructure.amazon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeleteTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.datastructure.tree.DeleteTree" />
+      <module name="DataStructure_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.datastructure.tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.datastructure.list.singlylist.ReverseLinkedList" />
+      <module name="DataStructure_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.datastructure.list.singlylist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RotateMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.datastructure.math.RotateMatrix" />
+      <module name="DataStructure_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.datastructure.math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.datastructure.list.singlylist.TestJava" />
+      <module name="DataStructure_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.datastructure.list.singlylist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.RotateMatrix" />
+      <item itemvalue="Application.ReverseLinkedList" />
+      <item itemvalue="Application.TestJava" />
+      <item itemvalue="Application.Converter" />
+      <item itemvalue="Application.DeleteTree" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DeleteTree" />
+        <item itemvalue="Application.Converter" />
+        <item itemvalue="Application.TestJava" />
+        <item itemvalue="Application.ReverseLinkedList" />
+        <item itemvalue="Application.RotateMatrix" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="401fdead-ba24-45c0-bca3-839e08d1d156" name="Default Changelist" comment="" />
+      <created>1542456848521</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542456848521</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestStack_testInfixToPostFix2 - 2018.11.28 at 05h 54m 22s.xml">
+      <configuration name="TestStack.testInfixToPostFix2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestStack - 2018.11.28 at 05h 59m 12s.xml">
+      <configuration name="TestStack" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestStack - 2018.11.28 at 05h 59m 25s.xml">
+      <configuration name="TestStack" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestStack_testreverseStack - 2018.11.30 at 08h 40m 14s.xml">
+      <configuration name="TestStack.testreverseStack" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestStack_testreverseStack - 2018.11.30 at 08h 44m 53s.xml">
+      <configuration name="TestStack.testreverseStack" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestStack_testreverseStack - 2018.11.30 at 09h 27m 35s.xml">
+      <configuration name="TestStack.testreverseStack" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestStack_testreverseStack - 2018.11.30 at 09h 28m 33s.xml">
+      <configuration name="TestStack.testreverseStack" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestStack_testreverseStack - 2018.11.30 at 09h 28m 47s.xml">
+      <configuration name="TestStack.testreverseStack" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestStack_testreverseStack - 2018.11.30 at 09h 29m 51s.xml">
+      <configuration name="TestStack.testreverseStack" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestStack_testreverseStack - 2018.11.30 at 09h 30m 50s.xml">
+      <configuration name="TestStack.testreverseStack" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="340" y="76" key="#Project_Structure" timestamp="1578467378971">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="340" y="76" key="#Project_Structure/0.23.1440.829@0.23.1440.829" timestamp="1578467378971" />
+    <state x="553" y="104" key="#com.intellij.ide.util.MemberChooser" timestamp="1578493006372">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="553" y="104" key="#com.intellij.ide.util.MemberChooser/0.23.1440.829@0.23.1440.829" timestamp="1578493006372" />
+    <state width="1440" height="134" key="GridCell.Tab.0.bottom" timestamp="1578844374253">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="134" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1578844374253" />
+    <state width="1400" height="134" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1578493019500" />
+    <state width="1440" height="134" key="GridCell.Tab.0.center" timestamp="1578844374252">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="134" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1578844374252" />
+    <state width="1400" height="134" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1578493019499" />
+    <state width="1440" height="134" key="GridCell.Tab.0.left" timestamp="1578844374252">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="134" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1578844374252" />
+    <state width="1400" height="134" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1578493019499" />
+    <state width="1440" height="134" key="GridCell.Tab.0.right" timestamp="1578844374253">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="134" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1578844374253" />
+    <state width="1400" height="134" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1578493019500" />
+    <state width="1440" height="318" key="GridCell.Tab.1.bottom" timestamp="1578588120298">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="318" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1578588120298" />
+    <state width="1440" height="318" key="GridCell.Tab.1.center" timestamp="1578588120298">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="318" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1578588120298" />
+    <state width="1440" height="318" key="GridCell.Tab.1.left" timestamp="1578588120297">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="318" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1578588120297" />
+    <state width="1440" height="318" key="GridCell.Tab.1.right" timestamp="1578588120298">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="318" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1578588120298" />
+    <state x="374" y="273" key="com.intellij.ide.util.TipDialog" timestamp="1582293570684">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="374" y="273" key="com.intellij.ide.util.TipDialog/0.23.1440.832@0.23.1440.832" timestamp="1582293570684" />
+    <state x="405" y="176" width="670" height="676" key="search.everywhere.popup" timestamp="1578458343357">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="405" y="176" width="670" height="676" key="search.everywhere.popup/0.23.1440.829@0.23.1440.829" timestamp="1578458343357" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/datastructure/list/singlylist/RemoveNthfromtheNode.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/datastructure/list/singlylist/RemoveNthfromtheNode.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/datastructure/list/singlylist/RemoveNthfromtheNode.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/datastructure/list/singlylist/RotateRight.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/datastructure/list/singlylist/RotateRight.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/datastructure/list/singlylist/RotateRight.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/datastructure/list/singlylist/ReverseBetweenList.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/datastructure/list/singlylist/ReverseBetweenList.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/datastructure/list/singlylist/ReverseBetweenList.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/datastructure/list/singlylist/ReorderList.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/datastructure/list/singlylist/ReorderList.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/datastructure/list/singlylist/ReorderList.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/datastructure/list/singlylist/ReorderList.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/datastructure/list/singlylist/ReorderList.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/datastructure/list/singlylist/SwapPairs.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/datastructure/list/singlylist/SwapPairs.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/datastructure/math/ColumnTitle.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/datastructure/tree/DeleteTree.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/datastructure/tree/DeleteTree.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/datastructure/tree/DeleteTree.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/datastructure/tree/DeleteTree.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/datastructure/tree/DeleteTree.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/datastructure/tree/DeleteTree.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>lessThan.get(i) &gt; dat</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+</project>

@@ -1,6 +1,6 @@
 package com.datastructure.list.singlylist;
 
-import javax.jnlp.IntegrationService;
+
 
 public class RemoveNthfromtheNode {
 

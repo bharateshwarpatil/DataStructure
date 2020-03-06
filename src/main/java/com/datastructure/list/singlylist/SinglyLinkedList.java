@@ -88,6 +88,26 @@ public class SinglyLinkedList<T extends  Comparable> {
     }
 
 
+    /**
+     * reverse SinglyNode
+     *
+     * @param
+     */
+    public Node reveseSinglyList(Node tnode) {
+        if(tnode==null) return tnode;
+        Node currNode = headNode;
+        Node prevNode = null;
+        while (currNode != null) {
+            Node nextNode = currNode.getNext();//
+            Node tmpNode = nextNode.getNext();
+            nextNode.setNext(currNode);
+            currNode.setNext(prevNode);
+            prevNode = nextNode;
+            currNode = tmpNode;
+        }
+        headNode = prevNode;
+        return headNode;
+    }
 
     /**
      * reverse SinglyNode
