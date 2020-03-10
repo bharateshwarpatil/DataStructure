@@ -1,8 +1,8 @@
-package com.selfguide.datastructure.graph;
+package com.datastructure.graph;
 
 /**
  *
- * @author Bharat
+ * @author Bharateshwar Patil
  * @param <T>
  * @param <W>
  */

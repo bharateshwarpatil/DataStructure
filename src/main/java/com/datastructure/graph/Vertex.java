@@ -1,4 +1,4 @@
-package com.selfguide.datastructure.graph;
+package com.datastructure.graph;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -43,6 +43,17 @@ public class Vertex<T> {
         }
     }
 
+    public boolean isvisited(){
+        if(nodeVisit == Color.WHITE){
+          return   false;
+        }
+        return true;
+    }
+
+    public void resetVisitedFlag(){
+        nodeVisit=Color.WHITE;
+    }
+
 
     @Override
     public boolean equals(Object o) {
@@ -55,5 +66,13 @@ public class Vertex<T> {
     @Override
     public int hashCode() {
         return getData() != null ? getData().hashCode() : 0;
+    }
+
+    @Override
+    public String toString() {
+        return "Vertex{" +
+                "data=" + data +
+                ", nodeVisit=" + nodeVisit +
+                '}';
     }
 }

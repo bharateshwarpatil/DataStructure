@@ -1,5 +1,7 @@
 package com.selfguide.datastructure.graph;
 
+import com.datastructure.graph.Vertex;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -25,8 +27,6 @@ public class AdjacencyMetrics {
     public void removeEdge(int i,int j) {
         metrics[i][j]=false;
     }
-
-
 
 
 

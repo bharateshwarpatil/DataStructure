@@ -1,6 +1,7 @@
-package com.selfguide.datastructure.graph;
+package com.datastructure.graph;
 
 import java.util.List;
+import java.util.Set;
 
 /**
  *
@@ -15,6 +16,7 @@ public class Graph<E, W extends Comparable, V> {
 
     private AdjacencyList<V> adjacencyList = new AdjacencyList<V>();
 
+
     public void addEdge(E edgeDetail, W weight, V vertex, V vertex2) {
         edgeList.addEdge(edgeDetail, weight, vertex, vertex2);
         adjacencyList.addAdjecentVertices(vertex, vertex2);
@@ -26,10 +28,9 @@ public class Graph<E, W extends Comparable, V> {
         adjacencyList.addAdjecentVertices(vertex2, vertex);
     }
 
-    public void addSingleVertex(V vertex) {
-        adjacencyList.addAdjecentVertices(vertex, null);
+    public Vertex<V> getRandomvertex() {
+       return  adjacencyList.getRandomvertex();
     }
-
     public List<Vertex<V>> getAllAdjecentVertices(Vertex<V> vertex) {
         return adjacencyList.getAllAdjecentVertices(vertex);
     }

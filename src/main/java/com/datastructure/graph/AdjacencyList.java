@@ -1,4 +1,4 @@
-package com.selfguide.datastructure.graph;
+package com.datastructure.graph;
 
 import java.util.*;
 
@@ -60,6 +60,19 @@ public class AdjacencyList<V> {
         List<Vertex<V>> vertices=    new ArrayList<Vertex<V>>();
         vertices.addAll(adjacencyMap.get(new Vertex<V>(data)));
         return vertices;
+    }
+
+    /**
+     *
+     * this is just for DS.
+     * @return
+     */
+    public  Vertex<V> getRandomvertex() {
+        Iterator<Map.Entry<Vertex<V>, Set<Vertex<V>>>> iterator = adjacencyMap.entrySet().iterator();
+        if (iterator.hasNext()) {
+            return iterator.next().getKey();
+        }
+      return null;
     }
 
 }

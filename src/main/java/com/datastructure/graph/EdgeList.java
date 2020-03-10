@@ -1,4 +1,4 @@
-package com.selfguide.datastructure.graph;
+package com.datastructure.graph;
 
 import java.util.ArrayList;
 import java.util.Collections;
