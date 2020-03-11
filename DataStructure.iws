@@ -2,68 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="401fdead-ba24-45c0-bca3-839e08d1d156" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/datastructure/graph/BFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/datastructure/graph/DFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/datastructure/graph/TopologySort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/datastructure/sort/ActivityNotification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/datastructure/sort/inputFileForActivityNotification" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/datastructure/tree/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructure.iws" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/datastructure/amazon/Converter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/datastructure/list/singlylist/DeleteDuplicates$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/datastructure/list/singlylist/DeleteDuplicates.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/datastructure/list/singlylist/MergeTwoSortedList$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/datastructure/list/singlylist/MergeTwoSortedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/datastructure/list/singlylist/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/datastructure/list/singlylist/PalindromeList$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/datastructure/list/singlylist/PalindromeList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/datastructure/list/singlylist/RemoveNthfromtheNode$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/datastructure/list/singlylist/RemoveNthfromtheNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/datastructure/list/singlylist/ReorderList$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/datastructure/list/singlylist/ReorderList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/datastructure/list/singlylist/ReverseBetweenList$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/datastructure/list/singlylist/ReverseBetweenList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/datastructure/list/singlylist/ReverseLinkedList$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/datastructure/list/singlylist/ReverseLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/datastructure/list/singlylist/RotateRight$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/datastructure/list/singlylist/RotateRight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/datastructure/list/singlylist/SinglyLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/datastructure/list/singlylist/SwapPairs$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/datastructure/list/singlylist/SwapPairs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/datastructure/list/singlylist/TestJava$EmpCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/datastructure/list/singlylist/TestJava.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/datastructure/math/ColumnTitle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/datastructure/math/RotateMatrix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/datastructure/queue/Queue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/datatstructure/stack/FindDuplicate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/datatstructure/stack/LargestNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/datatstructure/stack/MaximumGap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/datatstructure/stack/NobleInteger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/datatstructure/stack/Operator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/datatstructure/stack/Pascaletrangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/datatstructure/stack/PrimeSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/datatstructure/stack/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/datatstructure/stack/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/datatstructure/stack/Solution3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/datatstructure/stack/SquareMatric.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/datatstructure/stack/Stack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/datatstructure/stack/StackUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/datatstructure/stack/SubUnsort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/datatstructure/stack/TripletsSumInRabge.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/datatstructure/stack/WaveArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/com/datastructure/list/singlylist/TestSinglyLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/com/datastructure/stack/TestStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/datastructure/graph/AdjacencyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/datastructure/graph/AdjacencyList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/datastructure/graph/AdjacencyMetrics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/datastructure/graph/AdjacencyMetrics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/datastructure/graph/Edge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/datastructure/graph/Edge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/datastructure/graph/DFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/datastructure/graph/DFS.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/datastructure/graph/EdgeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/datastructure/graph/EdgeList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/datastructure/graph/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/datastructure/graph/Graph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/datastructure/graph/Vertex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/datastructure/graph/Vertex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/datastructure/graph/TopologySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/datastructure/graph/TopologySort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

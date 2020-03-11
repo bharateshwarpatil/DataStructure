@@ -26,6 +26,7 @@ public class DFS {
     private void dfs(Graph<String, Integer, Integer> graph, Vertex<Integer> vertex, Stack<Vertex<Integer>> stack) {
         if (vertex == null || vertex.isvisited()) return;
         vertex.changeColor();
+        System.out.println(vertex);
         stack.push(vertex);
         List<Vertex<Integer>> vertices = graph.getAllAdjecentVertices(vertex);
         if (!vertices.isEmpty()) {

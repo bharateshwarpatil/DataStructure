@@ -30,7 +30,12 @@ public class EdgeList<E,W extends Comparable,V> {
         edgeList.add(new Edge<E,W,V>(data, weight,new Vertex<V>(vertices1), new Vertex<V>(vertices2)));
     }
 
-   /**
+    public void addEdge(E data, W weight,Vertex<V> vertex1, Vertex<V> vertex2) {
+        edgeList.add(new Edge<E,W,V>(data, weight,vertex1, vertex2));
+    }
+
+
+    /**
      *
      * @param edge
      * @param v1
