@@ -7,7 +7,7 @@ public class Converter {
         char[] arrayChar = new char[length];
         int indexChar = length - 1;
         while (number > 0) {
-            arrayChar[indexChar] = (char) (48 + (number % 10));
+            arrayChar[indexChar] = (char) (48+ (number % 10));
             number = number / 10;
             indexChar--;
         }
@@ -33,7 +33,7 @@ public class Converter {
 
     public static void main(String[] args) {
         int number = 223;
-        System.out.println(new Converter().convertIntToString(number));
+        System.out.println(new Converter().convertIntToString(number)+"<><><<");
     }
 
 }

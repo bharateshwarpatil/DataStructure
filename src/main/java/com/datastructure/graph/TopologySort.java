@@ -1,10 +1,7 @@
 package com.datastructure.graph;
 
 import com.datatstructure.stack.Stack;
-
-import java.net.Inet4Address;
 import java.util.HashSet;
-import java.util.List;
 import java.util.Set;
 
 public class TopologySort {
@@ -18,15 +15,12 @@ public class TopologySort {
          setVertices.stream().filter(vertex1 -> !set.contains(vertex1)).forEach(vertex1 -> {
             toplogySort(set,stack,vertex1,graph);
         });
-
         //print the sorted
         while(stack.peek()!=null){
             System.out.print(stack.pop());
             System.out.print(" -> ");
         }
-
         System.out.print("\n");
-
         return stack;
     }
 

@@ -2,10 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="401fdead-ba24-45c0-bca3-839e08d1d156" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/datastructure/backtrack/StringPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/datastructure/dynamicProgramming/SubSetSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/datastructure/graph/DijkstraSingleShortestPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/datastructure/queue/BinaryHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/datastructure/queue/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructure.iws" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/datastructure/graph/DFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/datastructure/graph/DFS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/datastructure/graph/EdgeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/datastructure/graph/EdgeList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/datastructure/graph/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/datastructure/graph/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datastructure/amazon/Converter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datastructure/list/singlylist/CirculerLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datastructure/list/singlylist/DeleteDuplicates$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datastructure/list/singlylist/DeleteDuplicates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datastructure/list/singlylist/MergeTwoSortedList$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datastructure/list/singlylist/MergeTwoSortedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datastructure/list/singlylist/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datastructure/list/singlylist/PalindromeList$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datastructure/list/singlylist/PalindromeList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datastructure/list/singlylist/RemoveNthfromtheNode$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datastructure/list/singlylist/RemoveNthfromtheNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datastructure/list/singlylist/ReorderList$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datastructure/list/singlylist/ReorderList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datastructure/list/singlylist/ReverseBetweenList$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datastructure/list/singlylist/ReverseBetweenList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datastructure/list/singlylist/ReverseLinkedList$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datastructure/list/singlylist/ReverseLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datastructure/list/singlylist/RotateRight$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datastructure/list/singlylist/RotateRight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datastructure/list/singlylist/SinglyLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datastructure/list/singlylist/SwapPairs$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datastructure/list/singlylist/SwapPairs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datastructure/list/singlylist/TestJava$EmpCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datastructure/list/singlylist/TestJava.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datastructure/math/ColumnTitle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datastructure/math/RotateMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datastructure/queue/Queue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datastructure/tree/DeleteTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datastructure/tree/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datatstructure/stack/FindDuplicate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datatstructure/stack/LargestNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datatstructure/stack/MaximumGap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datatstructure/stack/NobleInteger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datatstructure/stack/Operator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datatstructure/stack/Pascaletrangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datatstructure/stack/PrimeSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datatstructure/stack/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datatstructure/stack/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datatstructure/stack/Solution3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datatstructure/stack/SquareMatric.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datatstructure/stack/Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datatstructure/stack/StackUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datatstructure/stack/SubUnsort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datatstructure/stack/TripletsSumInRabge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/datatstructure/stack/WaveArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/datastructure/amazon/Converter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/datastructure/amazon/Converter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/datastructure/graph/TopologySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/datastructure/graph/TopologySort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -139,6 +198,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -148,7 +208,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/com/datastructure" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test1">
+  <component name="RunManager" selected="Application.StringPermutation">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -162,20 +222,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.datastructure.tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Converter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.datastructure.amazon.Converter" />
-      <module name="DataStructure_main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.datastructure.amazon.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,13 +243,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.datastructure.tree.Test1" />
+    <configuration name="StringPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.datastructure.backtrack.StringPermutation" />
       <module name="DataStructure_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.datastructure.tree.*" />
+          <option name="PATTERN" value="com.datastructure.backtrack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,13 +257,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.datastructure.list.singlylist.TestJava" />
+    <configuration name="SubSetSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.datastructure.dynamicProgramming.SubSetSum" />
       <module name="DataStructure_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.datastructure.list.singlylist.*" />
+          <option name="PATTERN" value="com.datastructure.dynamicProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.datastructure.tree.Test1" />
+      <module name="DataStructure_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.datastructure.tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -257,19 +317,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TestJava" />
-      <item itemvalue="Application.Converter" />
       <item itemvalue="Application.DeleteTree" />
       <item itemvalue="Application.ActivityNotification" />
       <item itemvalue="Application.Test1" />
+      <item itemvalue="Application.SubSetSum" />
+      <item itemvalue="Application.StringPermutation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringPermutation" />
+        <item itemvalue="Application.SubSetSum" />
         <item itemvalue="Application.Test1" />
         <item itemvalue="Application.ActivityNotification" />
         <item itemvalue="Application.DeleteTree" />
-        <item itemvalue="Application.Converter" />
-        <item itemvalue="Application.TestJava" />
       </list>
     </recent_temporary>
   </component>
@@ -340,102 +400,66 @@
     </todo-panel>
   </component>
   <component name="WindowStateProjectService">
-    <state x="340" y="76" key="#Project_Structure" timestamp="1578467378971">
-      <screen x="0" y="23" width="1440" height="829" />
+    <state x="365" y="279" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1592640855238">
+      <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state x="340" y="76" key="#Project_Structure/0.23.1440.829@0.23.1440.829" timestamp="1578467378971" />
-    <state x="369" y="249" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583579637717">
-      <screen x="0" y="23" width="1440" height="833" />
+    <state x="365" y="279" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.830@0.23.1440.830" timestamp="1592640855238" />
+    <state width="1398" height="227" key="GridCell.Tab.0.bottom" timestamp="1600104901287">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state x="369" y="249" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.833@0.23.1440.833" timestamp="1583579637717" />
-    <state x="553" y="104" key="#com.intellij.ide.util.MemberChooser" timestamp="1583854920293">
-      <screen x="0" y="23" width="1440" height="833" />
+    <state width="1398" height="227" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1600104901287" />
+    <state width="1440" height="121" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1592733007873" />
+    <state width="1440" height="121" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1592629757909" />
+    <state width="1440" height="278" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1593147092304" />
+    <state width="1398" height="227" key="GridCell.Tab.0.center" timestamp="1600104901287">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state x="553" y="104" key="#com.intellij.ide.util.MemberChooser/0.23.1440.829@0.23.1440.829" timestamp="1578493006372" />
-    <state x="553" y="104" key="#com.intellij.ide.util.MemberChooser/0.23.1440.833@0.23.1440.833" timestamp="1583854920293" />
-    <state x="221" y="381" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1583500835362">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="227" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1600104901287" />
+    <state width="1440" height="121" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1592733007872" />
+    <state width="1440" height="121" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1592629757908" />
+    <state width="1440" height="278" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1593147092303" />
+    <state width="1398" height="227" key="GridCell.Tab.0.left" timestamp="1600104901286">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state x="221" y="381" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1440.900@0.0.1440.900" timestamp="1583500835361" />
-    <state x="435" y="167" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1583638436878">
-      <screen x="0" y="23" width="1440" height="833" />
+    <state width="1398" height="227" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1600104901286" />
+    <state width="1440" height="121" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1592733007871" />
+    <state width="1440" height="121" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1592629757908" />
+    <state width="1440" height="278" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1593147092303" />
+    <state width="1398" height="227" key="GridCell.Tab.0.right" timestamp="1600104901287">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state x="435" y="167" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.23.1440.833@0.23.1440.833" timestamp="1583638436878" />
-    <state width="965" height="437" key="DebuggerActiveHint" timestamp="1583858437319">
-      <screen x="0" y="23" width="1440" height="833" />
+    <state width="1398" height="227" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1600104901287" />
+    <state width="1440" height="121" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1592733007872" />
+    <state width="1440" height="121" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1592629757908" />
+    <state width="1440" height="278" key="GridCell.Tab.0.right/0.23.1440.835@0.23.1440.835" timestamp="1593147092303" />
+    <state width="1398" height="268" key="GridCell.Tab.1.bottom" timestamp="1600099015237">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state width="965" height="437" key="DebuggerActiveHint/0.23.1440.833@0.23.1440.833" timestamp="1583858437319" />
-    <state width="455" height="438" key="DebuggerActiveHint/0.23.1440.835@0.23.1440.835" timestamp="1583574634442" />
-    <state width="1440" height="200" key="GridCell.Tab.0.bottom" timestamp="1583851842813">
-      <screen x="0" y="23" width="1440" height="833" />
+    <state width="1398" height="268" key="GridCell.Tab.1.bottom/0.23.1440.825@0.23.1440.825" timestamp="1600099015237" />
+    <state width="1440" height="278" key="GridCell.Tab.1.bottom/0.23.1440.830@0.23.1440.830" timestamp="1592540651808" />
+    <state width="1440" height="278" key="GridCell.Tab.1.bottom/0.23.1440.835@0.23.1440.835" timestamp="1593147092305" />
+    <state width="1398" height="268" key="GridCell.Tab.1.center" timestamp="1600099015236">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state width="1440" height="134" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1578844374253" />
-    <state width="1400" height="134" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1578493019500" />
-    <state width="1440" height="200" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1583851842813" />
-    <state width="1440" height="200" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1583577437909" />
-    <state width="1440" height="200" key="GridCell.Tab.0.center" timestamp="1583851842811">
-      <screen x="0" y="23" width="1440" height="833" />
+    <state width="1398" height="268" key="GridCell.Tab.1.center/0.23.1440.825@0.23.1440.825" timestamp="1600099015236" />
+    <state width="1440" height="278" key="GridCell.Tab.1.center/0.23.1440.830@0.23.1440.830" timestamp="1592540651808" />
+    <state width="1440" height="278" key="GridCell.Tab.1.center/0.23.1440.835@0.23.1440.835" timestamp="1593147092304" />
+    <state width="1398" height="268" key="GridCell.Tab.1.left" timestamp="1600099015236">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state width="1440" height="134" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1578844374252" />
-    <state width="1400" height="134" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1578493019499" />
-    <state width="1440" height="200" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1583851842811" />
-    <state width="1440" height="200" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1583577437908" />
-    <state width="1440" height="200" key="GridCell.Tab.0.left" timestamp="1583851842729">
-      <screen x="0" y="23" width="1440" height="833" />
+    <state width="1398" height="268" key="GridCell.Tab.1.left/0.23.1440.825@0.23.1440.825" timestamp="1600099015236" />
+    <state width="1440" height="278" key="GridCell.Tab.1.left/0.23.1440.830@0.23.1440.830" timestamp="1592540651808" />
+    <state width="1440" height="278" key="GridCell.Tab.1.left/0.23.1440.835@0.23.1440.835" timestamp="1593147092304" />
+    <state width="1398" height="268" key="GridCell.Tab.1.right" timestamp="1600099015237">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state width="1440" height="134" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1578844374252" />
-    <state width="1400" height="134" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1578493019499" />
-    <state width="1440" height="200" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1583851842729" />
-    <state width="1440" height="200" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1583577437908" />
-    <state width="1440" height="200" key="GridCell.Tab.0.right" timestamp="1583851842812">
-      <screen x="0" y="23" width="1440" height="833" />
+    <state width="1398" height="268" key="GridCell.Tab.1.right/0.23.1440.825@0.23.1440.825" timestamp="1600099015237" />
+    <state width="1440" height="278" key="GridCell.Tab.1.right/0.23.1440.830@0.23.1440.830" timestamp="1592540651808" />
+    <state width="1440" height="278" key="GridCell.Tab.1.right/0.23.1440.835@0.23.1440.835" timestamp="1593147092304" />
+    <state x="450" y="283" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1600105028706">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state width="1440" height="134" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1578844374253" />
-    <state width="1400" height="134" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1578493019500" />
-    <state width="1440" height="200" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1583851842812" />
-    <state width="1440" height="200" key="GridCell.Tab.0.right/0.23.1440.835@0.23.1440.835" timestamp="1583577437909" />
-    <state width="1440" height="281" key="GridCell.Tab.1.bottom" timestamp="1583638646483">
-      <screen x="0" y="23" width="1440" height="833" />
-    </state>
-    <state width="1440" height="318" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1578588120298" />
-    <state width="1440" height="281" key="GridCell.Tab.1.bottom/0.23.1440.833@0.23.1440.833" timestamp="1583638646483" />
-    <state width="1440" height="282" key="GridCell.Tab.1.bottom/0.23.1440.835@0.23.1440.835" timestamp="1583577356608" />
-    <state width="1440" height="281" key="GridCell.Tab.1.center" timestamp="1583638646482">
-      <screen x="0" y="23" width="1440" height="833" />
-    </state>
-    <state width="1440" height="318" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1578588120298" />
-    <state width="1440" height="281" key="GridCell.Tab.1.center/0.23.1440.833@0.23.1440.833" timestamp="1583638646482" />
-    <state width="1440" height="282" key="GridCell.Tab.1.center/0.23.1440.835@0.23.1440.835" timestamp="1583577356607" />
-    <state width="1440" height="281" key="GridCell.Tab.1.left" timestamp="1583638646482">
-      <screen x="0" y="23" width="1440" height="833" />
-    </state>
-    <state width="1440" height="318" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1578588120297" />
-    <state width="1440" height="281" key="GridCell.Tab.1.left/0.23.1440.833@0.23.1440.833" timestamp="1583638646482" />
-    <state width="1440" height="282" key="GridCell.Tab.1.left/0.23.1440.835@0.23.1440.835" timestamp="1583577356607" />
-    <state width="1440" height="281" key="GridCell.Tab.1.right" timestamp="1583638646483">
-      <screen x="0" y="23" width="1440" height="833" />
-    </state>
-    <state width="1440" height="318" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1578588120298" />
-    <state width="1440" height="281" key="GridCell.Tab.1.right/0.23.1440.833@0.23.1440.833" timestamp="1583638646483" />
-    <state width="1440" height="282" key="GridCell.Tab.1.right/0.23.1440.835@0.23.1440.835" timestamp="1583577356608" />
-    <state x="374" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1583558324491">
-      <screen x="0" y="23" width="1440" height="835" />
-    </state>
-    <state x="374" y="273" key="com.intellij.ide.util.TipDialog/0.23.1440.832@0.23.1440.832" timestamp="1582293570684" />
-    <state x="374" y="274" key="com.intellij.ide.util.TipDialog/0.23.1440.835@0.23.1440.835" timestamp="1583558324491" />
-    <state x="503" y="364" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583851836790">
-      <screen x="0" y="23" width="1440" height="833" />
-    </state>
-    <state x="503" y="364" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.833@0.23.1440.833" timestamp="1583851836790" />
-    <state x="458" y="200" key="extract.method.dialog" timestamp="1583858473039">
-      <screen x="0" y="23" width="1440" height="833" />
-    </state>
-    <state x="458" y="200" key="extract.method.dialog/0.23.1440.833@0.23.1440.833" timestamp="1583858473039" />
-    <state x="405" y="166" width="670" height="734" key="search.everywhere.popup" timestamp="1583506281206">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="405" y="166" width="670" height="734" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1583506281206" />
-    <state x="405" y="176" width="670" height="676" key="search.everywhere.popup/0.23.1440.829@0.23.1440.829" timestamp="1578458343357" />
+    <state x="450" y="283" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1440.825@0.23.1440.825" timestamp="1600105028706" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -579,6 +603,36 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/datastructure/tree/Test1.java</url>
           <line>24</line>
           <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/datastructure/dynamicProgramming/SubSetSum.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/datastructure/dynamicProgramming/SubSetSum.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/datastructure/dynamicProgramming/SubSetSum.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/datastructure/dynamicProgramming/SubSetSum.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/datastructure/amazon/Converter.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/datastructure/amazon/Converter.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="159" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
