@@ -1,6 +1,8 @@
 package com.selfguide.datastructure.sort;
 
 
+import java.util.Arrays;
+
 public class BubbleSort {
 
     /**
@@ -22,5 +24,12 @@ public class BubbleSort {
           int temp = arr[j];
           arr[j]=arr[i];
           arr[i]=temp;
+    }
+
+    public static void main(String[] args) {
+        int [] arr={4,5,4,2,3,1};
+        BubbleSort bubbleSort= new BubbleSort();
+        bubbleSort.sort(arr);
+        System.out.println(Arrays.toString(arr));
     }
 }
