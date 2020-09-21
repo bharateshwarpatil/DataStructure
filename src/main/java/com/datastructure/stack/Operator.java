@@ -1,6 +1,5 @@
-package com.datatstructure.stack;
+package com.datastructure.stack;
 
-import javax.swing.text.html.Option;
 import java.util.Optional;
 
 public enum Operator {

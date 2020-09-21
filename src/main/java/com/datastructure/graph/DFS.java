@@ -1,6 +1,6 @@
 package com.datastructure.graph;
 
-import com.datatstructure.stack.Stack;
+import com.datastructure.stack.Stack;
 
 import java.util.List;
 

@@ -1,7 +1,5 @@
 package com.datastructure.stack;
 
-import com.datatstructure.stack.Stack;
-import com.datatstructure.stack.StackUtil;
 import org.junit.Assert;
 import org.junit.Test;
 

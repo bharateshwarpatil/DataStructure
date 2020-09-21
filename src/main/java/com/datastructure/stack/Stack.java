@@ -1,8 +1,6 @@
-package com.datatstructure.stack;
+package com.datastructure.stack;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 public class Stack<T> {
 
