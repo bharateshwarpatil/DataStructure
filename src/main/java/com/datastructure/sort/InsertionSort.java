@@ -1,4 +1,4 @@
-package com.selfguide.datastructure.sort;
+package com.datastructure.sort;
 
 import java.util.Arrays;
 
@@ -19,7 +19,7 @@ public class InsertionSort {
 
     public static void main(String[] args) {
         int [] arr={4,5,4,2,3,1};
-        InsertionSort insertionSort= new com.selfguide.datastructure.sort.InsertionSort();
+        InsertionSort insertionSort= new com.datastructure.sort.InsertionSort();
         insertionSort.sort(arr);
         System.out.println(Arrays.toString(arr));
     }

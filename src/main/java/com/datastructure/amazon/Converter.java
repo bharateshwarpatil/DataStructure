@@ -4,6 +4,7 @@ public class Converter {
 
     public String convertIntToString(int number) {
         int length = getLength(number);
+
         char[] arrayChar = new char[length];
         int indexChar = length - 1;
         while (number > 0) {

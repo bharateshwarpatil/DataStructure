@@ -1,4 +1,4 @@
-package com.selfguide.datastructure.sort;
+package com.datastructure.sort;
 
 import java.util.Arrays;
 
@@ -11,7 +11,7 @@ public class CountingSort {
         for (int i = 0; i < arr.length; i++) {
             count[arr[i]] = count[arr[i]] + 1;
         }
-        for (int i = 0; i < k - 1; ++i) {
+        for (int i = 1; i < k ; ++i) {
             count[i + 1] = count[i] + count[i + 1];
         }
         int result[] = new int[arr.length];

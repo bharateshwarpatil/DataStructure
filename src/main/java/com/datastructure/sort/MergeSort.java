@@ -1,4 +1,4 @@
-package com.selfguide.datastructure.sort;
+package com.datastructure.sort;
 
 public class MergeSort {
 
